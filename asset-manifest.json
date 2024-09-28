@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nasadata/static/css/main.1e6f2b43.css",
+    "main.js": "/nasadata/static/js/main.f1664692.js",
+    "static/js/453.e47d9d05.chunk.js": "/nasadata/static/js/453.e47d9d05.chunk.js",
+    "index.html": "/nasadata/index.html",
+    "main.1e6f2b43.css.map": "/nasadata/static/css/main.1e6f2b43.css.map",
+    "main.f1664692.js.map": "/nasadata/static/js/main.f1664692.js.map",
+    "453.e47d9d05.chunk.js.map": "/nasadata/static/js/453.e47d9d05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e6f2b43.css",
+    "static/js/main.f1664692.js"
+  ]
+}
