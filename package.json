@@ -1,4 +1,5 @@
 {
+  "homepage":"https://ramesh-46.github.io/nasadata",
   "name": "nasa-data-app",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -22,6 +25,7 @@
       "react-app",
       "react-app/jest"
     ]
+    
   },
   "browserslist": {
     "production": [
@@ -33,6 +37,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    "proxy": "http://tle.ivanstanojevic.me"
+
   }
 }
